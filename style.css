@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+nav{
+    height: 90;
+    display: flex;
+    align-items: center;
+}
+nav a{
+    text-decoration: none;
+    color: #8332c9;
+    font-size: larger;
+    margin-right: 25px ;
+}
+nav a:hover{
+    transform: scale(1.1);
+}
+footer a:hover{
+    transform: scale(1.1);
+}

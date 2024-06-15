@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+nav{
+    height: 90;
+    display: flex;
+    align-items: center;
+}
+nav a{
+    text-decoration: none;
+    color: #8332c9;
+    font-size: larger;
+    margin-right: 25px ;
+}
+nav a:hover{
+    transform: scale(1.1);
+    color: #00ff00;
+}
+footer a:hover{
+    transform: scale(1.1);
+}
+.car{
+    background-color: aqua; align-items: center;
+}
+.car h1{
+    margin-left: 35%;
+}
+.licence{
+    margin-left: 20%;
+}
+.footer{
+    margin-left: 5px
+}
+input{
+    border-radius: 20px;
+    background: transparent;
+    color: #ff0000;
+}
+button{
+    margin-left: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+button:hover{
+    transform: scale(1.5);
+}

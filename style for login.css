@@ -1,0 +1,9 @@
+.login{
+    background-color: aqua; align-items: center;
+}
+.login h1{
+    margin-left: 35%;
+}
+body{
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
